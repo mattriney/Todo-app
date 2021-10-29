@@ -1,6 +1,6 @@
 # Todo
 
-This is a simple Todo list app built in Angular
+This is a simple Todo list app built in Angular for practice
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
