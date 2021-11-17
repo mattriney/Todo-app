@@ -1,6 +1,6 @@
 # Todo
 
-This is a simple Todo list app demonstrating CRUD(create, read, update, and delete) built in Angular for practice and reference.
+This is a simple Todo list app built in Angular.
 
 
 
